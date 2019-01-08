@@ -1,9 +1,9 @@
 {
-  "main.css": "/jhg/static/css/main.a47eca77.chunk.css",
-  "main.js": "/jhg/static/js/main.5205ed55.chunk.js",
-  "main.js.map": "/jhg/static/js/main.5205ed55.chunk.js.map",
-  "static/js/1.da21a8ef.chunk.js": "/jhg/static/js/1.da21a8ef.chunk.js",
-  "static/js/1.da21a8ef.chunk.js.map": "/jhg/static/js/1.da21a8ef.chunk.js.map",
+  "main.css": "/jhg/static/css/main.c426e597.chunk.css",
+  "main.js": "/jhg/static/js/main.e876d733.chunk.js",
+  "main.js.map": "/jhg/static/js/main.e876d733.chunk.js.map",
+  "static/js/1.8cd57477.chunk.js": "/jhg/static/js/1.8cd57477.chunk.js",
+  "static/js/1.8cd57477.chunk.js.map": "/jhg/static/js/1.8cd57477.chunk.js.map",
   "runtime~main.js": "/jhg/static/js/runtime~main.475ddc6d.js",
   "runtime~main.js.map": "/jhg/static/js/runtime~main.475ddc6d.js.map",
   "static/media/play.svg": "/jhg/static/media/play.0c1ce2dd.svg",
@@ -12,9 +12,10 @@
   "static/media/pause.svg": "/jhg/static/media/pause.586f15b3.svg",
   "static/media/error.svg": "/jhg/static/media/error.35a6ccb5.svg",
   "static/media/later.svg": "/jhg/static/media/later.491fe89f.svg",
+  "static/media/link.svg": "/jhg/static/media/link.4c93145f.svg",
   "static/media/plus.svg": "/jhg/static/media/plus.4b3f33aa.svg",
-  "static/css/main.a47eca77.chunk.css.map": "/jhg/static/css/main.a47eca77.chunk.css.map",
+  "static/css/main.c426e597.chunk.css.map": "/jhg/static/css/main.c426e597.chunk.css.map",
   "index.html": "/jhg/index.html",
-  "precache-manifest.13710e8d5bccfd53b9913366d9ac5178.js": "/jhg/precache-manifest.13710e8d5bccfd53b9913366d9ac5178.js",
+  "precache-manifest.12aed48b7b8614e0c3d1122f112f7f98.js": "/jhg/precache-manifest.12aed48b7b8614e0c3d1122f112f7f98.js",
   "service-worker.js": "/jhg/service-worker.js"
 }
